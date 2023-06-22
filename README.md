@@ -30,4 +30,4 @@
 
 ### Reference:
 - G. Dzemyda et al., Multidimensional Data Visualization: Methods and Applications, Springer Optimization and Its Applications 75, DOI 10.1007/978-1-4419-0236-8 1, © Springer Science+Business Media, LLC 2013
-- G. Grinstein et al., High-Dimensional Visualizations
+- G. Grinstein et al., High-Dimensional Visualizations. In: Proceedings of Workshop on Visual Data Mining, ACM Conference on Knowledge Discovery and Data Mining, pp. 1–14. ACM, New York 2001
