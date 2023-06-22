@@ -25,9 +25,9 @@
 - https://ww2.mathworks.cn/help/stats/glyphplot.html
 - https://www.mathworks.com/help/stats/visualizing-multivariate-data.html
 
-### Trellis Display:
+### Trellis Display
 - https://seaborn.pydata.org/generated/seaborn.FacetGrid.html
 
-### Reference:
+### Reference
 - G. Dzemyda et al., **Multidimensional Data Visualization: Methods and Applications**, *Springer Optimization and Its Applications*, Springer Science+Business Media 2013
 - G. Grinstein et al., **High-Dimensional Visualizations**, *Proceedings of Workshop on Visual Data Mining, ACM Conference on Knowledge Discovery and Data Mining*, ACM 2001
